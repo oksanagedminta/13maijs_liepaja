@@ -1,0 +1,6 @@
+Andris;12
+Kate;15
+Lote;16
+Gaitis;13
+Ritvars;6
+Lita;14

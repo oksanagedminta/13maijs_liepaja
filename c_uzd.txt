@@ -1,0 +1,4 @@
+Ainis 20
+Kate 15.5
+Arnis 43
+Daiga 12.5
