@@ -1,4 +1,4 @@
 """
 Attēlot datus, kuri saglabāti piem.txt failā, stabiņveida diagrammā.
-Noformējuma piemērs - b_uzd.png.
+Noformējuma piemērs - a_uzd.png.
 """
